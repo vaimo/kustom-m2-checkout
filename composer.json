@@ -92,7 +92,6 @@
         "allow-plugins": {
             "magento/composer-dependency-version-audit-plugin": false
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
 
