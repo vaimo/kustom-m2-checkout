@@ -11,12 +11,12 @@
         "vaimo/kustom-module-kss":  "3.0.17",
         "vaimo/kustom-module-payments-graph-ql":  "3.0.19",
         "vaimo/kustom-module-payments":  "10.0.19",
-        "vaimo/kustom-module-klarna-api":  "1.0.8",
-        "vaimo/kustom-module-kco": "12.0.23",
-        "vaimo/kustom-module-base":  "11.0.17",
+        "vaimo/kustom-module-klarna-api":  "dev-fix/post-113-test-adjustments as 1.0.8",
+        "vaimo/kustom-module-kco": "dev-feature/KUSTOM-92-push-controller-refactoring as 12.0.23",
+        "vaimo/kustom-module-base":  "dev-fix/post-113-test-adjustments as 11.0.17",
         "vaimo/kustom-module-backend":  "11.0.18",
-        "vaimo/kustom-module-admin-settings":  "1.1.4",
-        "vaimo/kustom-module-logger": "3.0.9"
+        "vaimo/kustom-module-admin-settings":  "dev-fix/post-113-test-adjustments as 1.1.4",
+        "vaimo/kustom-module-logger": "dev-fix/post-113-test-adjustments as 3.0.9"
     },
     "repositories": [
         {
