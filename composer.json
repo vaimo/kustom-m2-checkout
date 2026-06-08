@@ -13,7 +13,7 @@
         "vaimo/kustom-module-payments": "10.0.19",
         "vaimo/kustom-module-klarna-api": "dev-fix/post-113-test-adjustments as 1.0.8",
         "vaimo/kustom-module-kco": "dev-release/next as 12.0.23",
-        "vaimo/kustom-module-base": "dev-fix/post-113-test-adjustments as 11.0.17",
+        "vaimo/kustom-module-base": "dev-feature/KUSTOM-94-klarna-to-kustom-terminology-adjustments as 11.0.17",
         "vaimo/kustom-module-backend": "dev-release/next as 11.0.18",
         "vaimo/kustom-module-admin-settings": "dev-feature/KUSTOM-94-klarna-to-kustom-terminology-adjustments as 1.1.4",
         "vaimo/kustom-module-logger": "dev-fix/post-113-test-adjustments as 3.0.9"
